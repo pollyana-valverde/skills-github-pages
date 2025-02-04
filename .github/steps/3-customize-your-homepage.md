@@ -5,7 +5,7 @@
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Step 3: Customize your homepage
+## Step 3: Customize your homepage teste de customização
 
 _Nice work setting the theme! :sparkles:_
 
