@@ -5,7 +5,7 @@
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-## Step 4: Create a blog post
+## Step 4: Create a blog post teste
 
 _Your home page is looking great! :cowboy_hat_face:_
 
